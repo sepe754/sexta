@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
+<title>ESTADO DE CUENTA</title>
+<link href="colorssergio.css" rel ="stylesheet" type="text/css" />
+<link href="basesergio.css" rel ="stylesheet" type="text/css" />
+<link href="great.css" rel ="stylesheet" type="text/css" media="screen and (min-width:981px) " />
+<link href="mediumsergio.css" rel ="stylesheet" type="text/css" media="screen and (min-width:481px) and (max-width:980px)" />
+<link href="misergio.css" rel ="stylesheet" type="text/css" media="screen and (max-width:480px)" / >
+</head>
+<body>
+
+<header>
+<h1>AHORRO 2025</h1>
+<h2 class="display-great"></h2>
+<h2 class="display-great"></h2>
+<h2 class="display-great"></h2>
+</header>
+
+<div id="wrapper">
+
+<nav id="main-nav">
+<h2>Bienvenida ANA por favor selecciona el estado de tu interes</h2>
+
+
+
+<div class="menu">
+<a href="cuotaypollaana.html">CUOTA Y POLLA</a>
+<br>
+<br>
+<a href="festivosana.html">IMPUESTO AL FESTIVO Y BALANCE</a>
+<br>
+<br>
+<a href="prestamosana.html">PRESTAMOS</a>
+</div>
+
+
+
+
+<section id="main-section">
+<h2></h2>
+
+<article>
+<h3></h3>
+<p class="display-great display-medium"</p>
+</article>
+
+<article>
+<h3></h3>
+<p class="display-great display-medium"</p>
+</article>
+
+<article>
+<h3></h3>
+<p class="display-great display-medium"</p>
+</article>
+</section>
+
+
+
+
+
+</body>
+</html>
