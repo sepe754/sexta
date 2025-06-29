@@ -1,7 +1,10 @@
-table {
+body{
+  background-color:green;
+}
+table {  
 border-collapse: collapse; 
 }
 
-table thead {
+thead {
 background-color:#fd79a8;
 }
