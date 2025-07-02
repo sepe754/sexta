@@ -1,10 +1,10 @@
 body{
-  background-color:green;
+  background-color:pink;
 }
 table {  
 border-collapse: collapse; 
 }
 
 thead {
-background-color:#fd79a8;border:20px;
+background-color:#fd79a8;border:50px;
 }
