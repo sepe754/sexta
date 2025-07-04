@@ -1,0 +1,12 @@
+isplay-mini {
+  display: inherit !important;
+  }
+  
+  body {
+  font-family: arial;
+  }
+  
+  select.display-mini {
+    font-size: 1.2em;
+	width: 100%;
+	}
