@@ -1,0 +1,30 @@
+body {
+	
+}
+
+table {
+
+ border-collapse: collapse;
+}
+
+td{
+	padding:5px;font-style:oblique;font-size:28px;width:140px;
+}
+
+
+
+h3{
+	color:red;font-size:36px;
+}
+.green{
+	background-color:yellow;
+}
+
+.black{
+	background-color:black;
+}
+
+div {
+	
+	display:inline-block;background-color:pink;
+}
