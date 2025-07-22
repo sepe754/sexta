@@ -25,7 +25,7 @@ h3{
 }
 
 div {
-	
-	display:inline-block;background-color:green;
+	padding:5px;font-style:oblique;font-size:28px;width:140px;margin:20px;
+	display:inline-block;background-color:pink;border:4px;
 	
 }
