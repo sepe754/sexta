@@ -14,7 +14,7 @@ td{
 
 
 h3{
-	color:red;font-size:36px;
+	color:red;font-size:36px;margin:20px;
 }
 .green{
 	background-color:yellow;
@@ -25,7 +25,7 @@ h3{
 }
 
 div {
-	padding:5px;font-style:oblique;font-size:28px;width:140px;margin:20px;
+	padding:1px;font-style:oblique;font-size:28px;width:110px;margin:20px;
 	display:inline-block;background-color:pink;border:4px;
 	
 }
