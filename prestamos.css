@@ -49,24 +49,111 @@ h3{
 	padding:3px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:150px;height:26px;margin:5px 0px;
 	position:absolute;top:444px;bottom:0;right:0;left:184px;background-color:pink;border:1px solid #000;
 	
-}
 .cola3 {
-	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:150px;height:32px;margin:5px 0px;
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:150px;height:32px;margin:5px 0px;
 	position:absolute;top:444px;bottom:0;right:0;left:344px;background-color:pink;border:1px solid #000;
 	
 }
 .cola4 {
-	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:150px;height:32px;margin:5px 0px;
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:150px;height:32px;margin:5px 0px;
 	position:absolute;top:444px;bottom:0;right:0;left:498px;background-color:pink;border:1px solid #000;
 	
 }
 .cola5 {
-	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:150px;height:32px;margin:5px 0px;
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:150px;height:32px;margin:5px 0px;
 	position:absolute;top:444px;bottom:0;right:0;left:652px;background-color:pink;border:1px solid #000;
 	
 }
 .cola6 {
-	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:152px;height:32px;margin:5px 0px;
-	position:absolute;top:479px;bottom:0;right:0;left:28px;background-color:white;border:1px solid #000;
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:152px;height:32px;margin:5px 0px;
+	position:absolute;top:489px;bottom:0;right:0;left:28px;background-color:white;border:1px solid #000;
+	
+}
+.cola7 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:155px;height:32px;margin:5px 0px;
+	position:absolute;top:489px;bottom:0;right:0;left:184px;background-color:white;border:1px solid #000;
+	
+}
+.cola8 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:152px;height:32px;margin:5px 0px;
+	position:absolute;top:489px;bottom:0;right:0;left:343px;background-color:white;border:1px solid #000;
+	
+}
+.cola9 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:150px;height:32px;margin:5px 0px;
+	position:absolute;top:489px;bottom:0;right:0;left:499px;background-color:white;border:1px solid #000;
+	
+}
+.cola10 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:150px;height:32px;margin:5px 0px;
+	position:absolute;top:489px;bottom:0;right:0;left:653px;background-color:white;border:1px solid #000;
+	
+}
+.cola11 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:152px;height:32px;margin:5px 0px;
+	position:absolute;top:525px;bottom:0;right:0;left:28px;background-color:white;border:1px solid #000;
+	
+}
+.cola12 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:154px;height:32px;margin:5px 0px;
+	position:absolute;top:525px;bottom:0;right:0;left:184px;background-color:white;border:1px solid #000;
+	
+}
+.cola13 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:153px;height:32px;margin:5px 0px;
+	position:absolute;top:525px;bottom:0;right:0;left:342px;background-color:white;border:1px solid #000;
+	
+}
+.cola14 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:151px;height:32px;margin:5px 0px;
+	position:absolute;top:525px;bottom:0;right:0;left:499px;background-color:white;border:1px solid #000;
+	
+}
+.cola15 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:150px;height:32px;margin:5px 0px;
+	position:absolute;top:525px;bottom:0;right:0;left:654px;background-color:white;border:1px solid #000;
+	
+}
+.cola16 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:151px;height:32px;margin:5px 0px;
+	position:absolute;top:561px;bottom:0;right:0;left:28px;background-color:white;border:1px solid #000;
+	
+}
+.cola17 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:153px;height:32px;margin:5px 0px;
+	position:absolute;top:561px;bottom:0;right:0;left:184px;background-color:white;border:1px solid #000;
+	
+}
+.cola18 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:153px;height:32px;margin:5px 0px;
+	position:absolute;top:561px;bottom:0;right:0;left:342px;background-color:white;border:1px solid #000;
+	
+}
+.cola19 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:151px;height:32px;margin:5px 0px;
+	position:absolute;top:561px;bottom:0;right:0;left:499px;background-color:white;border:1px solid #000;
+	
+}
+.cola20 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:150px;height:32px;margin:5px 0px;
+	position:absolute;top:561px;bottom:0;right:0;left:654px;background-color:white;border:1px solid #000;
 	
 }
