@@ -1,5 +1,5 @@
 body {
-	
+	background-color:#81c0c5;
 }
 
 table {
@@ -38,8 +38,35 @@ h3{
 	background-color:black;
 }
 
-div {
-	padding:1px;font-style:oblique;font-size:28px;width:110px;margin:10px 5px;
-	display:inline-block;background-color:pink;border:3px solid #000;
+	
+
+.cola1 {
+	padding:1px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:150px;height:30px;margin:20px 20px;
+	position:relative;background-color:pink;border:1px solid #000;
+	
+}
+.cola2 {
+	padding:3px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:150px;height:26px;margin:5px 0px;
+	position:absolute;top:444px;bottom:0;right:0;left:184px;background-color:pink;border:1px solid #000;
+	
+}
+.cola3 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:150px;height:32px;margin:5px 0px;
+	position:absolute;top:444px;bottom:0;right:0;left:344px;background-color:pink;border:1px solid #000;
+	
+}
+.cola4 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:150px;height:32px;margin:5px 0px;
+	position:absolute;top:444px;bottom:0;right:0;left:498px;background-color:pink;border:1px solid #000;
+	
+}
+.cola5 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:150px;height:32px;margin:5px 0px;
+	position:absolute;top:444px;bottom:0;right:0;left:652px;background-color:pink;border:1px solid #000;
+	
+}
+.cola6 {
+	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:152px;height:32px;margin:5px 0px;
+	position:absolute;top:479px;bottom:0;right:0;left:28px;background-color:white;border:1px solid #000;
 	
 }
