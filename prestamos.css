@@ -48,6 +48,7 @@ h3{
 .cola2 {
 	padding:3px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;text-align:center;width:150px;height:26px;margin:5px 0px;
 	position:absolute;top:444px;bottom:0;right:0;left:184px;background-color:pink;border:1px solid #000;
+}
 	
 .cola3 {
 	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
