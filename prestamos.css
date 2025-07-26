@@ -1,5 +1,5 @@
 body {
-	background-color:#81c0c5;
+	background-color:#7ed6df;
 }
 
 table {
@@ -155,5 +155,6 @@ h3{
 	padding:0px;font-style:oblique;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
 	text-align:center;width:150px;height:32px;margin:5px 0px;
 	position:absolute;top:561px;bottom:0;right:0;left:654px;background-color:white;border:1px solid #000;
+}
 	
 }
