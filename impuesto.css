@@ -40,25 +40,25 @@ h3{
 
 	
 
-.cola1 {
+.impu1 {
 	padding:1px;font-style:arial;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
 	text-align:center;width:165px;height:50px;margin:20px 30px;
 	position:relative;background-color:pink;border:1px solid #000;
 	
 }
-.cola2 {
+.impu2 {
 	padding:3px;font-style:arial;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
 	text-align:center;width:165px;height:46px;margin:5px 0px;
 	position:absolute;top:444px;bottom:0;right:0;left:198px;background-color:pink;border:1px solid #000;
 	
 }
-.cola3 {
+.impu3 {
 	padding:0px;font-style:arial;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
 	text-align:center;width:165px;height:52px;margin:5px 0px;
 	position:absolute;top:444px;bottom:0;right:0;left:372px;background-color:pink;border:1px solid #000;
 	
 }
-.cola4 {
+.impu4 {
 	padding:0px;font-style:arial;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
 	text-align:center;width:165px;height:52px;margin:5px 0px;
 	position:absolute;top:444px;bottom:0;right:0;left:540px;background-color:pink;border:1px solid #000;
