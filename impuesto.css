@@ -1,0 +1,65 @@
+body {
+	background-color:#55efc4;
+}
+
+table {
+
+ border-collapse: collapse;
+}
+
+td{
+	padding:5px;font-style:oblique;font-size:28px;width:140px;
+}
+
+
+
+h1{
+	font-size:36px;margin:80px 30px;
+}
+
+
+
+h2{
+	font-size:36px;margin:80px 30px;
+}
+
+
+
+
+
+h3{
+	color:red;font-size:36px;margin:80px 30px;
+}
+.green{
+	background-color:yellow;
+}
+
+.black{
+	background-color:black;
+}
+
+	
+
+.cola1 {
+	padding:1px;font-style:arial;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:165px;height:50px;margin:20px 30px;
+	position:relative;background-color:pink;border:1px solid #000;
+	
+}
+.cola2 {
+	padding:3px;font-style:arial;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:165px;height:46px;margin:5px 0px;
+	position:absolute;top:444px;bottom:0;right:0;left:198px;background-color:pink;border:1px solid #000;
+	
+}
+.cola3 {
+	padding:0px;font-style:arial;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:165px;height:52px;margin:5px 0px;
+	position:absolute;top:444px;bottom:0;right:0;left:372px;background-color:pink;border:1px solid #000;
+	
+}
+.cola4 {
+	padding:0px;font-style:arial;font-size:28px;display:flex;flex-direction:column;justify-content:center;alig-items:flex-start;
+	text-align:center;width:165px;height:52px;margin:5px 0px;
+	position:absolute;top:444px;bottom:0;right:0;left:540px;background-color:pink;border:1px solid #000;
+	
